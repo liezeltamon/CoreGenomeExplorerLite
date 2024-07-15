@@ -1,0 +1,7 @@
+.DS_Store
+.Rhistory
+applications/*
+archive/*
+data/*
+sample_feature_bed/*
+
