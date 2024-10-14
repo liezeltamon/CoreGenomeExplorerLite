@@ -3,5 +3,6 @@
 applications/*
 archive/*
 data/*
+*.pdf
 sample_feature_bed/*
 
